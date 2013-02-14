@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Online-Dictinary</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Online-Dictinary</string>
+    <string name="enterWord">Enter your word here</string>
+    <string name="search">Search</string>
+
+</resources>
