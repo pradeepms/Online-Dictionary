@@ -15,4 +15,4 @@ This app takes input from the user and fetches its meaning from the XML file loc
 ###uses-permission
       android.permission.INTERNET
       
-Link to [My Website] (http://pradeepms.do.am)
+Link to [My Website] (http://pradeepms.me.pn)
